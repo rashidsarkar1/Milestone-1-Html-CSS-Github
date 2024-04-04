@@ -1,0 +1,136 @@
+{
+  "donations": [
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/641vt4j/tmp-7340-BA8008gm-Ep-A0.jpg",
+      "title": "Medical Supplies",
+      "category": "Health",
+      "category_bg": "#aec7ff",
+      "card_bg": "#d9e5ff",
+      "text_button_bg": "#0052ff",
+      "description": "Donate essential medical supplies to help those in need. Your contribution will provide crucial medical equipment, including masks, gloves, and sanitizers, to frontline healthcare workers and vulnerable communities. Together, we can make a difference in the fight against COVID-19 and other health crises.",
+      "price": 300
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/w0BtNq0/tmp-15356-j-QKZ6f-C3-WQ6-P.jpg",
+      "title": "Scholarship Fund",
+      "category": "Education",
+      "category_bg": "#FFC4C5",
+      "card_bg": "#FFE3E4",
+      "text_button_bg": "#FF444A",
+      "description": "Contribute to a scholarship fund and support students in pursuing their education. Your generous donation will enable bright and deserving students to access quality education, empowering them to build a better future. Education is the key to unlocking opportunities, and with your help, we can open doors for the next generation.",
+      "price": 450
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/WHRV290/tmp-15356-ko-Xgi-Urxyj-FL.jpg",
+      "title": "Warm Clothing",
+      "category": "Clothing",
+      "category_bg": "#D4ECC2",
+      "card_bg": "#EBF6E2",
+      "text_button_bg": "#79C23F",
+      "description": "Provide warm clothing items to help people stay cozy during the winter season. Your contribution will ensure that individuals facing cold weather have access to warm jackets, sweaters, and blankets. By donating, you can bring comfort and relief to those in need and make the winter months a little warmer for everyone.",
+      "price": 280
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/949zMdw/tmp-15356-HKWIkd-Ox-FM6c.webp",
+      "title": "Emergency Food Aid",
+      "category": "Food",
+      "category_bg": "#FDD2C4",
+      "card_bg": "#FEEAE4",
+      "text_button_bg": "#F87147",
+      "description": "Support families in crisis with emergency food aid packages. Your donation will help provide nutritious meals to individuals and families facing food insecurity. During times of hardship, your generosity can be a lifeline, ensuring that no one goes to bed hungry. Together, we can combat hunger and provide hope to those in need.",
+      "price": 350
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/Dz1fkM5/tmp-15356-r-Fj-WVGTY6j-Z2.jpg",
+      "title": "Healthcare Services",
+      "category": "Health",
+      "category_bg": "#aec7ff",
+      "card_bg": "#d9e5ff",
+      "text_button_bg": "#0052ff",
+      "description": "Help provide healthcare services to underserved communities. Your support will enable clinics and healthcare providers to offer vital medical care to individuals who lack access to proper healthcare. Your contribution can save lives and improve the well-being of countless individuals in need.",
+      "price": 400
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/VQHbk1X/resize-1695585561590913576-Educational-Materials.jpg",
+      "title": "Educational Materials",
+      "category": "Education",
+      "category_bg": "#FFC4C5",
+      "card_bg": "#FFE3E4",
+      "text_button_bg": "#FF444A",
+      "description": "Donate educational materials to schools and students in need. Your contribution will supply textbooks, stationery, and learning resources to schools and students who lack access to these essentials. Education is a powerful tool, and your donation can empower young minds to reach their full potential.",
+      "price": 220
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/KyXtJ5Q/resize-1695622674283596629wintercoats.jpg",
+      "title": "Winter Coats",
+      "category": "Clothing",
+      "category_bg": "#D4ECC2",
+      "card_bg": "#EBF6E2",
+      "text_button_bg": "#79C23F",
+      "description": "Provide winter coats to keep people warm during the cold season. Your donation will help distribute warm coats to individuals without adequate shelter, ensuring they stay protected from harsh winter weather. Together, we can bring warmth and comfort to those in need.",
+      "price": 280
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/ChnrWYh/tmp-15356-RMnp315dl-ULN.jpg",
+      "title": "Nutritious Meals",
+      "category": "Food",
+      "category_bg": "#FDD2C4",
+      "card_bg": "#FEEAE4",
+      "text_button_bg": "#F87147",
+      "description": "Contribute to the distribution of nutritious meals to the hungry. Your support will help provide balanced and healthy meals to individuals and families facing food insecurity. By donating, you can play a crucial role in ensuring that everyone has access to the nourishment they need to thrive.",
+      "price": 290
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/kM1dZKm/resize-1695585253221997895-Medical-Research.jpg",
+      "title": "Medical Research",
+      "category": "Health",
+      "category_bg": "#aec7ff",
+      "card_bg": "#d9e5ff",
+      "text_button_bg": "#0052ff",
+      "description": "Support medical research and advancements in healthcare. Your contribution will fund research initiatives aimed at discovering new treatments, improving patient care, and addressing pressing healthcare challenges. With your help, we can make breakthroughs in the field of medicine and improve the lives of many.",
+      "price": 500
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/NVRMh80/tmp-15356-x-Gxg9a0-ZLam3.png",
+      "title": "Educational Workshops",
+      "category": "Education",
+      "category_bg": "#FFC4C5",
+      "card_bg": "#FFE3E4",
+      "text_button_bg": "#FF444A",
+      "description": "Sponsor educational workshops to empower learners of all ages. Your donation will support workshops that provide valuable skills and knowledge to individuals seeking personal and professional growth. Education is a lifelong journey, and your contribution can help others along the way.",
+      "price": 450
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/HKXDfQx/resize-16955858561409127110-Warm-Blankets.jpg",
+      "title": "Warm Blankets",
+      "category": "Clothing",
+      "category_bg": "#D4ECC2",
+      "card_bg": "#EBF6E2",
+      "text_button_bg": "#79C23F",
+      "description": "Provide warm blankets to those without adequate shelter. Your donation will ensure that individuals facing homelessness or displacement have access to warm and comforting blankets. In times of vulnerability, your generosity can provide much-needed warmth and security.",
+      "price": 380
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/47f59JY/tmp-15356-5-Fh-Tc-NFdv-Sw-C.jpg",
+      "title": "Food Banks",
+      "category": "Food",
+      "category_bg": "#FDD2C4",
+      "card_bg": "#FEEAE4",
+      "text_button_bg": "#F87147",
+      "description": "Support local food banks in their mission to alleviate hunger. Your contribution will help food banks acquire and distribute essential food items to individuals and families in need. Together, we can combat hunger and ensure that everyone has access to nutritious meals.",
+      "price": 420
+    }
+  ]
+}
